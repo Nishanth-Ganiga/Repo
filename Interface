@@ -47,12 +47,6 @@ class Employee implements earns
 		System.out.println("LIC="+lic);
 		System.out.println("Tax="+ttax);
 	}
-	public void display1()
-	{
-		System.out.println("Account No="+actno);
-		System.out.println("Date of joining="+doj);
-		System.out.println("Basic Pay="+basic);
-	}
 }
 class Payslip
 {
